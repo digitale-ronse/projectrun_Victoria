@@ -79,6 +79,3 @@ You can also change the font and color in the [index.html](https://github.com/Qu
 ### License
 
 Project Run is released under the MIT license. See [LICENSE](https://github.com/Quinten/projectrun/blob/gh-pages/LICENSE) for details
-
-
-
