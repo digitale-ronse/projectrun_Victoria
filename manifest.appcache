@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# 2016-05-29 v0.0.1
+index.html
+code/game.js
+assets/sprites/runner.png
+assets/sprites/tiles.png
+assets/sprites/sky.png
+assets/sprites/skyline.png
+assets/sprites/game-over.png
+assets/sprites/start-screen.png
+assets/icons/touch-icon.png
+assets/icons/favicon.png
+assets/sounds/jump.mp3
+assets/sounds/jump.wav
+assets/sounds/gameover.mp3
+assets/sounds/gameover.wav
